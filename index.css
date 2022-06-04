@@ -1,0 +1,241 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.rectangule{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 89px;
+    top: 83px;
+
+background:  #1F2937;
+border-color: blue;
+}
+
+.rectangule p1{
+    position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white;
+}
+
+.rectangule p2{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left: 102px;
+    top: 327px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white;
+}
+
+.rectangule p3{
+    position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 379px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white;
+}
+
+
+.rectangule p4{
+    position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 409px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white
+}
+
+.rectangule p5{
+   position: absolute;
+width: 346px;
+height: 25px;
+left: 102px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white;
+
+}
+
+.rectangule p6{
+  position: absolute;
+width: 346px;
+height: 21px;
+left: 102px;
+top: 491px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: white;
+}
+
+
+
+
+.rectangule>div{
+    
+    position: absolute;
+    width: 550px;
+    height: 260px;
+
+    background-image: linear-gradient(
+  30deg,
+  hsl(240deg 100% 20%) 0%,
+  hsl(298deg 100% 21%) 15%,
+  hsl(324deg 100% 32%) 30%,
+  hsl(336deg 100% 42%) 44%,
+  hsl(0deg 93% 61%) 58%,
+  hsl(24deg 100% 57%) 72%,
+  hsl(42deg 100% 50%) 86%,
+  hsl(55deg 100% 50%) 100%
+);
+background-repeat:no-repeat }
+
+.rectangule1>h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+text-align: center;
+letter-spacing: -0.05em;
+color: #FFFFFF;
+}
+
+.rectangule1>p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 97.5723px;
+line-height: 24px;
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+
+.sinbordefondo {
+    
+    position: absolute;
+    
+    top:100px;
+    left:200px;
+     height: 80px;
+    width: 150px;
+    
+    background-color:transparent;
+   border: 0;
+   
+      
+font-family: 'Inter';
+font-style: normal;
+
+font-size: 50px;
+font-weight: bold;
+line-height: 100px;
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+   
+ }
+
+.btnCalcular{
+     position: absolute;
+    
+    top:210px;
+    left:230px;
+
+    
+    background-color:transparent;
+   border: 10;
+   
+      height: 40px;
+      width: 100px;
+font-family: 'Inter';
+font-style: normal;
+
+font-size: 20px;
+
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
