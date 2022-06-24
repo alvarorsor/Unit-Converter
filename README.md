@@ -1,16 +1,14 @@
 # title(){return this.options.title||this.options.name}
 
-## Supporting Scrimba
+## Author Alvaro Reinoso
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+I am a software developer Argentinean and i love the world of the informatic, software and programming.
+This is 
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+- [Visit my GIT repositories](https://)
+- [Visit my projects in Netlify](https://)
+- [Visit my WebSite](https://)
 
-	It would also mean the world to us if you share the courses.  
+	  
 
-Happy Coding!
+Thank you for visit my projects!
